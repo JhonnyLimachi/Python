@@ -3,7 +3,7 @@
 
 # Python
 
-La intersección entre Python, bioestadística y salud representa un campo emocionante y de rápido crecimiento en la investigación médica y la salud pública. Python, un lenguaje de programación de alto nivel, se ha convertido en una herramienta invaluable en el ámbito de la bioestadística y la epidemiología debido a su flexibilidad, facilidad de uso y su amplia gama de bibliotecas especializadas. En este contexto, Python se utiliza para analizar grandes conjuntos de datos de salud, realizar modelado estadístico, visualización de datos y desarrollo de algoritmos para la predicción y análisis de enfermedades.
+La intersección entre Python, bioestadística y salud representa un campo emocionante y de rápido crecimiento en la investigación médica y la salud pública. Python, un lenguaje de programación de alto nivel, se ha convertido en una herramienta invaluable en el ámbito de la bioestadística y la epidemiología debido a su flexibilidad, facilidad de uso y su amplia gama de bibliotecas especializadas. En este contexto, Python se utiliza para analizar grandes conjuntos de datos de salud, realizar modelado estadístico, visualización de datos y desarrollo de algoritmos para la predicción, análisis de enfermedades, sus tendencias y brotes.
 
 La bioestadística desempeña un papel fundamental en la investigación médica al aplicar métodos estadísticos para interpretar datos biológicos y médicos. Python proporciona una plataforma robusta para la implementación de técnicas estadísticas avanzadas, desde análisis descriptivos básicos hasta modelado multivariado complejo. Además, Python ofrece acceso a potentes bibliotecas como NumPy, SciPy y pandas, que facilitan la manipulación y el análisis de datos biomédicos a gran escala.
 
